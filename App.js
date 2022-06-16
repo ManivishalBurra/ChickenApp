@@ -13,7 +13,7 @@ export default function App() {
         onPasswordChange={() => {}}
         style={{ backgroundColor: "#FF5C58" }}
         loginButtonStyle={{ backgroundColor: "black" }}
-        dividerStyle={{backgroundColor:'black'}}
+        dividerStyle={{backgroundColor:'white'}}
       />
       <StatusBar styles="auto" />
     </View>
